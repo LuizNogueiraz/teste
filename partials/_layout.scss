@@ -1,0 +1,15 @@
+
+.container{
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 12px;
+}
+img{
+  width: 100%;
+}
+a{
+  color: $font-color-normal;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
